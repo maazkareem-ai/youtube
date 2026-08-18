@@ -1,0 +1,6 @@
+{
+  "name": "Two-Person Private Realtime Chat",
+  "description": "A secure, modern, responsive real-time private messaging web application with Supabase auth, real-time messaging, typing indicators, read receipts, image sharing, and mobile optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
